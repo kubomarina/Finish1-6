@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box1 {
+  height: 200px;
+  background-image: url(img/japan.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box2 {
+  height: 200px;
+  background-image: url(img/japan2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box3 {
+  height: 200px;
+  background-image: url(img/lake.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box4 {
+  height: 200px;
+  background-image: url(img/snow.jpg);
+  background-position: center;
+  background-size: cover;
+}
